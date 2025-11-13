@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IdeaSpanTech/static/css/main.d6bb7685.css",
+    "main.js": "/IdeaSpanTech/static/js/main.2a3c564f.js",
+    "static/js/453.57780872.chunk.js": "/IdeaSpanTech/static/js/453.57780872.chunk.js",
+    "index.html": "/IdeaSpanTech/index.html",
+    "main.d6bb7685.css.map": "/IdeaSpanTech/static/css/main.d6bb7685.css.map",
+    "main.2a3c564f.js.map": "/IdeaSpanTech/static/js/main.2a3c564f.js.map",
+    "453.57780872.chunk.js.map": "/IdeaSpanTech/static/js/453.57780872.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6bb7685.css",
+    "static/js/main.2a3c564f.js"
+  ]
+}
