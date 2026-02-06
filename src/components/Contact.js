@@ -183,12 +183,9 @@ const Contact = () => {
 
     try {
       const response = await fetch(
-        'YOUR_GOOGLE_APPS_SCRIPT_URL',
+       "https://script.google.com/macros/s/AKfycbzHtMe4RiQKbFq1u_q8OmgGrK8xhzt3__QaPv32GJWb9z3iJt4UYPIouSmmKLzqcKfhnQ/exec",
         {
           method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
           body: JSON.stringify(formData),
         }
       );
