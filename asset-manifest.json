@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/IdeaSpanTech/static/css/main.d6bb7685.css",
-    "main.js": "/IdeaSpanTech/static/js/main.9ba858cc.js",
+    "main.js": "/IdeaSpanTech/static/js/main.ade37b53.js",
     "static/js/453.57780872.chunk.js": "/IdeaSpanTech/static/js/453.57780872.chunk.js",
     "index.html": "/IdeaSpanTech/index.html",
     "main.d6bb7685.css.map": "/IdeaSpanTech/static/css/main.d6bb7685.css.map",
-    "main.9ba858cc.js.map": "/IdeaSpanTech/static/js/main.9ba858cc.js.map",
+    "main.ade37b53.js.map": "/IdeaSpanTech/static/js/main.ade37b53.js.map",
     "453.57780872.chunk.js.map": "/IdeaSpanTech/static/js/453.57780872.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6bb7685.css",
-    "static/js/main.9ba858cc.js"
+    "static/js/main.ade37b53.js"
   ]
 }
