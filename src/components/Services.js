@@ -22,8 +22,8 @@ const Services = () => {
     },
     {
       id: 2,
-      title: 'SEO & Marketing',
-      description: 'Boost your online visibility with strategic SEO optimization and digital marketing solutions.',
+      title: 'SEO',
+      description: 'Boost your online visibility with strategic SEO optimization.',
       icon: <FaSearch size={40} />,
     },
     {
@@ -34,8 +34,8 @@ const Services = () => {
     },
     {
       id: 4,
-      title: 'Maintenance & Support',
-      description: 'Keep your website running smoothly with ongoing updates, security, and performance optimization.',
+      title: 'Digital Marketing',
+      description: 'Keep your online presence alive and more strong with targeted digital marketing strategies.',
       icon: <FaWrench size={40} />,
     },
   ];

@@ -5,7 +5,7 @@ import './Hero.css';
 
 const Hero = () => {
   const [text, setText] = useState('');
-  const fullText = 'We Build Modern, Fast & Creative Web Experiences';
+  const fullText = 'Build Fast. Rank Higher. Grow Smarter.';
   const [textIndex, setTextIndex] = useState(0);
 
   useEffect(() => {

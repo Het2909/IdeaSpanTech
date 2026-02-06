@@ -11,9 +11,9 @@ const About = () => {
   }, []);
 
   const badgesData = [
-    { label: 'Years of Experience', value: '5+' },
-    { label: 'Happy Clients', value: '50+' },
-    { label: 'Completed Projects', value: '100+' },
+    { label: 'Crafting modern, meaningful web experiences', value: '🚀 Built with Passion' },
+    { label: 'Fast, scalable & SEO-ready websites', value: '⚡ Modern Tech Stack' },
+    { label: 'Your goals guide every decision', value: 'Client-First Mindset' },
   ];
 
   return (
@@ -40,13 +40,10 @@ const About = () => {
           <motion.div className="about-text" data-aos="fade-left">
             <h2>About Us</h2>
             <p>
-              We are a team of passionate web developers and designers dedicated to crafting exceptional digital
-              experiences. With over 5 years of experience, we've helped startups and enterprises transform their
-              visions into powerful, scalable web solutions.
+              We’re a team of passionate web developers, designers, and SEO minds who love turning ideas into impactful digital products. With 5+ years of hands-on experience, we help startups move fast, scale smarter, and stand out online.
             </p>
             <p>
-              Our approach combines cutting-edge technology, creative design, and strategic thinking to deliver
-              websites that not only look stunning but also drive real business results.
+              By blending modern web technologies, intuitive design, and growth-driven SEO, we build websites that don’t just look great—they perform. From lightning-fast pages and clean code to search visibility and conversion optimization, everything we create is designed to fuel traction and real business growth.
             </p>
 
             {/* Badges */}

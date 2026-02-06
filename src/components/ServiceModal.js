@@ -20,19 +20,18 @@ const serviceDetails = {
     tools: ['React', 'Node.js', 'MongoDB', 'AWS', 'Docker', 'Git'],
   },
   2: {
-    title: 'SEO & Marketing',
-    description: 'Boost your online visibility with strategic SEO optimization and digital marketing solutions.',
+    title: 'SEO',
+    description: 'Boost your online visibility with strategic SEO optimization.',
     fullDescription:
-      'Maximize your online presence with our comprehensive SEO and digital marketing strategies. We help your business rank higher and reach the right audience.',
+      'Maximize your online presence with our comprehensive SEO strategies. We help your business rank higher and reach the right audience.',
     features: [
       'Keyword Research & Strategy',
       'On-Page & Off-Page SEO',
       'Content Marketing',
-      'Social Media Management',
-      'PPC Campaigns',
+        'Technical SEO Audits',
       'Analytics & Reporting',
     ],
-    tools: ['Google Analytics', 'SEMrush', 'Ahrefs', 'Mailchimp', 'Buffer', 'Canva'],
+    tools: ['Google Analytics', 'SEMrush', 'Ahrefs', 'Mailchimp'],
   },
   3: {
     title: 'UI/UX Design',
@@ -50,19 +49,18 @@ const serviceDetails = {
     tools: ['Figma', 'Adobe XD', 'Sketch', 'Protopie', 'UserTesting', 'Hotjar'],
   },
   4: {
-    title: 'Maintenance & Support',
-    description: 'Keep your website running smoothly with ongoing updates, security, and performance optimization.',
+    title: 'Digital Marketing',
+    description: 'Keep your online presence alive and more strong with targeted digital marketing strategies.',
     fullDescription:
-      'Ensure your website stays secure, fast, and up-to-date with our comprehensive maintenance and support services.',
+      'We help businesses grow their online presence through targeted digital marketing strategies. Our approach combines creativity, data-driven insights, and proven tactics to deliver measurable results.',
     features: [
-      'Regular Updates & Patches',
-      'Security Monitoring',
+      'Social Media Management',
+      'PPC Campaigns',
       'Performance Monitoring',
-      'Bug Fixes & Troubleshooting',
-      'Backup Management',
+        'Content Creation',
       '24/7 Support',
     ],
-    tools: ['Uptime Robot', 'Cloudflare', 'New Relic', 'DataDog', 'GitLab CI/CD', 'Sentry'],
+    tools: ['Google Ads', 'Facebook Ads', 'Hootsuite', 'Buffer', 'Canva', 'Google Analytics'],
   },
 };
 
