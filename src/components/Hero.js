@@ -83,14 +83,14 @@ const Hero = () => {
             whileHover={{ scale: 1.05, boxShadow: '0 20px 40px rgba(99, 102, 241, 0.4)' }}
             whileTap={{ scale: 0.95 }}
           >
-            Get a Free Quote
+            <a href="#contact">Get Started</a>
           </motion.button>
           <motion.button
             className="btn btn-secondary"
             whileHover={{ scale: 1.05, boxShadow: '0 20px 40px rgba(255, 255, 255, 0.2)' }}
             whileTap={{ scale: 0.95 }}
           >
-            View Our Work
+            <a href="#services">Explore Services</a>
           </motion.button>
         </motion.div>
       </motion.div>

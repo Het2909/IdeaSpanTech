@@ -227,7 +227,7 @@ const Contact = () => {
           transition={{ duration: 0.8 }}
           viewport={{ once: false }}
         >
-          <h2>Get In Touch</h2>
+          <h1>Get In Touch</h1>
           <p>Have a project in mind? Let's collaborate and bring your ideas to life.</p>
         </motion.div>
 

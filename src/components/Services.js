@@ -64,7 +64,7 @@ const Services = () => {
     <section className="services" id="services">
       <div className="services-container">
         <motion.div className="section-header" data-aos="fade-up">
-          <h2>Our Services</h2>
+          <h1>Our Services</h1>
           <p>We provide comprehensive web solutions tailored to your needs</p>
         </motion.div>
 

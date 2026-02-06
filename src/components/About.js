@@ -11,8 +11,8 @@ const About = () => {
   }, []);
 
   const badgesData = [
-    { label: 'Crafting modern, meaningful web experiences', value: '🚀 Built with Passion' },
-    { label: 'Fast, scalable & SEO-ready websites', value: '⚡ Modern Tech Stack' },
+    { label: 'Crafting modern, meaningful web experiences', value: 'Built with Passion' },
+    { label: 'Fast, scalable & SEO-ready websites', value: 'Modern Tech Stack' },
     { label: 'Your goals guide every decision', value: 'Client-First Mindset' },
   ];
 
@@ -38,7 +38,7 @@ const About = () => {
 
           {/* Right: Text Content */}
           <motion.div className="about-text" data-aos="fade-left">
-            <h2>About Us</h2>
+            <h1>About Us</h1>
             <p>
               We’re a team of passionate web developers, designers, and SEO minds who love turning ideas into impactful digital products. With 5+ years of hands-on experience, we help startups move fast, scale smarter, and stand out online.
             </p>
