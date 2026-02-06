@@ -51,6 +51,36 @@ const Footer = () => {
             </ul>
           </motion.div>
 
+
+
+          {/* contact */}
+          <motion.div
+            className="footer-links"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            transition={{ duration: 0.6, delay: 0.1 }}
+            viewport={{ once: false }}
+          >
+            <h4>Contact Us</h4>
+            <ul>
+              <li>
+                phone: <a href="tel:+91 8238446578">+91 8238446578</a>
+                {/* <a href="#about">About</a> */}
+              </li>
+              <li>
+                Email: <a href="mailto:hetjain2909@gmail.com">hetjain2909@gmail.com</a>
+                {/* <a href="#services">Services</a> */}
+              </li>
+              {/* <li>
+                <a href="#contact">Contact</a>
+              </li> */}
+            </ul>
+          </motion.div>
+
+
+
+
+
           {/* Social Icons */}
           <motion.div
             className="footer-social"
