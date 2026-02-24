@@ -211,8 +211,8 @@ const Contact = () => {
 
   const socialLinks = [
     { icon: FaEnvelope, label: 'Email', href: 'mailto:hetjain2909@gmail.com' },
-    { icon: FaLinkedin, label: 'LinkedIn', href: 'https://linkedin.com' },
-    { icon: FaInstagram, label: 'Instagram', href: 'https://instagram.com/het_2909' },
+    // { icon: FaLinkedin, label: 'LinkedIn', href: 'https://linkedin.com' },
+    { icon: FaInstagram, label: 'Instagram', href: 'https://www.instagram.com/brandup_26/' },
   ];
 
   return (

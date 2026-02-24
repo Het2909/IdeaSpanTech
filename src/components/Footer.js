@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram } from 'react-icons/fa';
+import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaEnvelope } from 'react-icons/fa';
 import './Footer.css';
 
 const Footer = () => {
@@ -8,9 +8,9 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: FaFacebook, href: 'https://facebook.com', label: 'Facebook' },
-    { icon: FaTwitter, href: 'https://twitter.com', label: 'Twitter' },
-    { icon: FaLinkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-    { icon: FaInstagram, href: 'https://instagram.com', label: 'Instagram' },
+    { icon: FaEnvelope, label: 'Email', href: 'mailto:hetjain2909@gmail.com' },
+    // { icon: FaLinkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
+    { icon: FaInstagram, href: 'https://www.instagram.com/brandup_26/', label: 'Instagram' },
   ];
 
   return (
@@ -25,7 +25,7 @@ const Footer = () => {
             transition={{ duration: 0.6 }}
             viewport={{ once: false }}
           >
-            <h3>IdeaSpanTech</h3>
+            <h3>BrandUp</h3>
             <p>Building digital experiences that matter</p>
           </motion.div>
 
@@ -120,7 +120,7 @@ const Footer = () => {
           transition={{ duration: 0.6, delay: 0.3 }}
           viewport={{ once: false }}
         >
-          <p>&copy; {currentYear} IdeaSpanTech. All rights reserved.</p>
+          <p>&copy; {currentYear} BrandUp. All rights reserved.</p>
           <div className="footer-links-bottom">
             <a href="#privacy">Privacy Policy</a>
             <span className="separator">|</span>
