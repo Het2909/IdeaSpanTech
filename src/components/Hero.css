@@ -203,3 +203,24 @@
     display: none;
   }
 }
+
+@media (max-width: 480px) {
+  .hero-headline {
+    font-size: 1.4rem;
+    min-height: auto;
+  }
+
+  .hero-subtext {
+    font-size: 0.95rem;
+    margin-bottom: 20px;
+  }
+
+  .hero-buttons {
+    margin-bottom: 40px;
+    gap: 12px;
+  }
+
+  .btn {
+    padding: 12px 20px;
+  }
+}
