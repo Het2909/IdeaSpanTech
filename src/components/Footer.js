@@ -25,7 +25,7 @@ const Footer = () => {
             transition={{ duration: 0.6 }}
             viewport={{ once: false }}
           >
-            <h3>BrandUp</h3>
+            <h3>IdeaSpanTech</h3>
             <p>Building digital experiences that matter</p>
           </motion.div>
 
@@ -120,7 +120,7 @@ const Footer = () => {
           transition={{ duration: 0.6, delay: 0.3 }}
           viewport={{ once: false }}
         >
-          <p>&copy; {currentYear} BrandUp. All rights reserved.</p>
+              <p>&copy; {currentYear} IdeaSpanTech. All rights reserved.</p>
           <div className="footer-links-bottom">
             <a href="#privacy">Privacy Policy</a>
             <span className="separator">|</span>
